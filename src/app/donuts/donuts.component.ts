@@ -1,6 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { Donut, Donuts } from '../interfaces/donuts';
-import { DonutService } from '../Donut.service';
+import { DonutService } from '../donut.service';
 
 @Component({
   selector: 'app-donuts',
